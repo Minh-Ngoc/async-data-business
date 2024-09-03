@@ -1,0 +1,1939 @@
+[{
+  "_id": {
+    "$oid": "63e88ae4314e1faeb046684b"
+  },
+  "name": "Team 4",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    },
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    },
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    },
+    {
+      "$oid": "64bce54b8e6ba16df052af18"
+    },
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    },
+    {
+      "$oid": "65a0b6ed71d21ce04e047332"
+    },
+    {
+      "$oid": "653cd0d5fb4b1ce1b0aa0613"
+    },
+    {
+      "$oid": "63e86450314e1faeb0466088"
+    }
+  ],
+  "total": 5392000,
+  "createdAt": {
+    "$date": "2023-02-12T06:44:52.610Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:17:38.752Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6544840295"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e86473314e1faeb046609b"
+  },
+  "name": "Team 3",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    },
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    },
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    },
+    {
+      "$oid": "64bce54b8e6ba16df052af18"
+    },
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    },
+    {
+      "$oid": "63e86450314e1faeb0466088"
+    },
+    {
+      "$oid": "65a0b6ed71d21ce04e047332"
+    },
+    {
+      "$oid": "653cd0d5fb4b1ce1b0aa0613"
+    }
+  ],
+  "total": 0,
+  "createdAt": {
+    "$date": "2023-02-12T04:00:51.058Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:17:32.030Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6544840295"
+  ]
+},
+{
+  "_id": {
+    "$oid": "640481996bd26478db126b3f"
+  },
+  "name": "Team 8",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    },
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    },
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    },
+    {
+      "$oid": "63e86450314e1faeb0466088"
+    },
+    {
+      "$oid": "64bce54b8e6ba16df052af18"
+    },
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    },
+    {
+      "$oid": "653cd0d5fb4b1ce1b0aa0613"
+    },
+    {
+      "$oid": "65a0b6ed71d21ce04e047332"
+    }
+  ],
+  "total": 630000,
+  "createdAt": {
+    "$date": "2023-03-05T11:48:41.869Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:19:52.009Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6785359258"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e867f8314e1faeb0466219"
+  },
+  "name": "Team 5",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    },
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    },
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    },
+    {
+      "$oid": "64bce54b8e6ba16df052af18"
+    },
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    },
+    {
+      "$oid": "63e86450314e1faeb0466088"
+    },
+    {
+      "$oid": "65a0b6ed71d21ce04e047332"
+    },
+    {
+      "$oid": "653cd0d5fb4b1ce1b0aa0613"
+    }
+  ],
+  "total": 44372240,
+  "createdAt": {
+    "$date": "2023-02-12T04:15:52.563Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:17:50.111Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6443374856"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e88a07314e1faeb0466723"
+  },
+  "name": "Team 2",
+  "brand": [
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    },
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    },
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    },
+    {
+      "$oid": "64bce54b8e6ba16df052af18"
+    },
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    },
+    {
+      "$oid": "65a0b6ed71d21ce04e047332"
+    },
+    {
+      "$oid": "63e86450314e1faeb0466088"
+    },
+    {
+      "$oid": "653cd0d5fb4b1ce1b0aa0613"
+    }
+  ],
+  "total": 45631000,
+  "createdAt": {
+    "$date": "2023-02-12T06:41:11.204Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:17:24.779Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6544840295"
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e893a8314e1faeb0466b47"
+  },
+  "name": "Team 7",
+  "brand": [
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    },
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    },
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    },
+    {
+      "$oid": "64bce54b8e6ba16df052af18"
+    },
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    },
+    {
+      "$oid": "65a0b6ed71d21ce04e047332"
+    },
+    {
+      "$oid": "653cd0d5fb4b1ce1b0aa0613"
+    },
+    {
+      "$oid": "63e86450314e1faeb0466088"
+    }
+  ],
+  "total": 53977000,
+  "createdAt": {
+    "$date": "2023-02-12T07:22:16.056Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:17:59.703Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6443374856"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64100d4245b5188875e682f6"
+  },
+  "name": "Trợ lý",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    },
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    },
+    {
+      "$oid": "63e86450314e1faeb0466088"
+    },
+    {
+      "$oid": "64bce54b8e6ba16df052af18"
+    },
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    }
+  ],
+  "total": 0,
+  "createdAt": {
+    "$date": "2023-03-14T05:59:30.519Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-25T12:30:03.409Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64101e0445b5188875e6ba61"
+  },
+  "name": "team 6 (cũ)",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    },
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    },
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    },
+    {
+      "$oid": "64bce54b8e6ba16df052af18"
+    },
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    }
+  ],
+  "total": 402000,
+  "createdAt": {
+    "$date": "2023-03-14T07:11:00.092Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:35:34.767Z"
+  },
+  "__v": 0,
+  "disable": true
+},
+{
+  "_id": {
+    "$oid": "63e9b11e2fa92fb1c5c630cc"
+  },
+  "name": "Team 1 (Cũ)",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    },
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    },
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    },
+    {
+      "$oid": "63e86450314e1faeb0466088"
+    },
+    {
+      "$oid": "64bce54b8e6ba16df052af18"
+    },
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    }
+  ],
+  "total": 20147000,
+  "createdAt": {
+    "$date": "2023-02-13T03:40:14.202Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T04:06:33.148Z"
+  },
+  "__v": 0,
+  "disable": true
+},
+{
+  "_id": {
+    "$oid": "6416dbc400b276bb440b23e2"
+  },
+  "name": "Hậu đài",
+  "brand": [
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    },
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    },
+    {
+      "$oid": "63e8644b314e1faeb0466083"
+    },
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    },
+    {
+      "$oid": "6476ceb53b514f05366f7378"
+    },
+    {
+      "$oid": "63e86450314e1faeb0466088"
+    },
+    {
+      "$oid": "64bce54b8e6ba16df052af18"
+    },
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    },
+    {
+      "$oid": "653cd0d5fb4b1ce1b0aa0613"
+    },
+    {
+      "$oid": "65a0b6ed71d21ce04e047332"
+    }
+  ],
+  "total": 1490000,
+  "createdAt": {
+    "$date": "2023-03-19T09:54:12.627Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-01T06:25:29.437Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6544840295",
+    "6443374856",
+    "6360377071",
+    "6983033323",
+    "6785359258"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6432324f2ec500919f6c2eac"
+  },
+  "name": "Team9a",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    },
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    },
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    }
+  ],
+  "user": {
+    "$oid": "6401aa0cf5537e9b6acc580e"
+  },
+  "createdAt": {
+    "$date": "2023-04-09T03:34:39.124Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-01T06:26:06.058Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6544840295",
+    "6443374856",
+    "6360377071",
+    "6983033323",
+    "6785359258"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64350be262f4b09c324014d0"
+  },
+  "name": "Team 9B",
+  "brand": [
+    {
+      "$oid": "653cd0d5fb4b1ce1b0aa0613"
+    }
+  ],
+  "user": {
+    "$oid": "6401aa0cf5537e9b6acc580e"
+  },
+  "createdAt": {
+    "$date": "2023-04-11T07:27:30.601Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-01T07:05:11.718Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6544840295",
+    "6443374856",
+    "6360377071",
+    "6983033323",
+    "6785359258"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64350c0562f4b09c324014e7"
+  },
+  "name": "Team9c",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    },
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    },
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    }
+  ],
+  "user": {
+    "$oid": "6401aa0cf5537e9b6acc580e"
+  },
+  "createdAt": {
+    "$date": "2023-04-11T07:28:05.317Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T07:28:05.317Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64350cb762f4b09c32401630"
+  },
+  "name": "team9d",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    },
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    },
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    }
+  ],
+  "user": {
+    "$oid": "6401aa0cf5537e9b6acc580e"
+  },
+  "createdAt": {
+    "$date": "2023-04-11T07:31:03.476Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T07:31:03.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645252b55e8e85184eda2ab2"
+  },
+  "name": "Team 10",
+  "brand": [
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    },
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    },
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    },
+    {
+      "$oid": "64bce54b8e6ba16df052af18"
+    },
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    },
+    {
+      "$oid": "653cd0d5fb4b1ce1b0aa0613"
+    },
+    {
+      "$oid": "65a0b6ed71d21ce04e047332"
+    },
+    {
+      "$oid": "669d060ad8848f790d2e2a87"
+    }
+  ],
+  "user": {
+    "$oid": "6401aa0cf5537e9b6acc580e"
+  },
+  "createdAt": {
+    "$date": "2023-05-03T12:25:25.251Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T08:52:26.916Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6360377071"
+  ]
+},
+{
+  "_id": {
+    "$oid": "648731bd4c54f591d5a044cb"
+  },
+  "name": "okvip",
+  "brand": [
+    {
+      "$oid": "65a0b6ed71d21ce04e047332"
+    }
+  ],
+  "user": {
+    "$oid": "6401aa0cf5537e9b6acc580e"
+  },
+  "createdAt": {
+    "$date": "2023-06-12T14:54:53.687Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:35:57.530Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6443374856"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64bce57511bbb2be27b2b57d"
+  },
+  "name": "Mộc bài",
+  "brand": [
+    {
+      "$oid": "64bce54b8e6ba16df052af18"
+    }
+  ],
+  "user": "64a908a06a7fbc6380f24250",
+  "createdAt": {
+    "$date": "2023-07-23T08:31:49.104Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T13:46:51.479Z"
+  },
+  "__v": 0,
+  "disable": true
+},
+{
+  "_id": {
+    "$oid": "64ca19d81a766e18f71167c9"
+  },
+  "name": "Digital",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    },
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    },
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    }
+  ],
+  "user": "645e3a7880c9be0ba93a6e21",
+  "createdAt": {
+    "$date": "2023-08-02T08:54:48.415Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-01T06:24:05.412Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6544840295",
+    "6443374856",
+    "6360377071",
+    "6983033323",
+    "6785359258"
+  ]
+},
+{
+  "_id": {
+    "$oid": "650d4db849955e5566a6c2e0"
+  },
+  "name": "Team 1",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    },
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    },
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    },
+    {
+      "$oid": "63e86450314e1faeb0466088"
+    },
+    {
+      "$oid": "64bce54b8e6ba16df052af18"
+    },
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    },
+    {
+      "$oid": "65a0b6ed71d21ce04e047332"
+    },
+    {
+      "$oid": "653cd0d5fb4b1ce1b0aa0613"
+    }
+  ],
+  "user": "64cba3d1bd241a03488c9dd3",
+  "createdAt": {
+    "$date": "2023-09-22T08:18:00.049Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:19:44.780Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6785359258"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6511530eb333a81f040250a9"
+  },
+  "name": "IT",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    }
+  ],
+  "user": "64224d9b6e962dcadb63a72a",
+  "createdAt": {
+    "$date": "2023-09-25T09:29:50.859Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-01T06:27:06.219Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6544840295",
+    "6443374856",
+    "6360377071",
+    "6983033323",
+    "6785359258"
+  ]
+},
+{
+  "_id": {
+    "$oid": "651b941126d257d9a38d610d"
+  },
+  "name": "Team 11",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    },
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    },
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    },
+    {
+      "$oid": "63e86450314e1faeb0466088"
+    },
+    {
+      "$oid": "64bce54b8e6ba16df052af18"
+    },
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    },
+    {
+      "$oid": "653cd0d5fb4b1ce1b0aa0613"
+    }
+  ],
+  "user": "645e3a7880c9be0ba93a6e21",
+  "createdAt": {
+    "$date": "2023-10-03T04:09:53.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T08:52:41.793Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6360377071"
+  ]
+},
+{
+  "_id": {
+    "$oid": "651c18ba25e339f2d7010c16"
+  },
+  "name": "Team 6",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    },
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    },
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    },
+    {
+      "$oid": "63e86450314e1faeb0466088"
+    },
+    {
+      "$oid": "64bce54b8e6ba16df052af18"
+    },
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    },
+    {
+      "$oid": "65a0b6ed71d21ce04e047332"
+    },
+    {
+      "$oid": "653cd0d5fb4b1ce1b0aa0613"
+    }
+  ],
+  "user": "64cba3d1bd241a03488c9dd3",
+  "createdAt": {
+    "$date": "2023-10-03T13:35:54.936Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:18:11.982Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6443374856"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653924287e0258505ed01cd2"
+  },
+  "name": "Team 9a - NEW88 (8)",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    }
+  ],
+  "user": "645e3a7880c9be0ba93a6e21",
+  "createdAt": {
+    "$date": "2023-10-25T14:20:24.798Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:33:44.942Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6544840295"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6539248ff2e51c0aa9abc887"
+  },
+  "name": "Team 9a - Hi88 (3)",
+  "brand": [
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    }
+  ],
+  "user": "645e3a7880c9be0ba93a6e21",
+  "createdAt": {
+    "$date": "2023-10-25T14:22:07.062Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:33:34.088Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6544840295"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653a1a2480c28d2bbe78a576"
+  },
+  "name": "Team 9a - Jun88 (8)",
+  "brand": [
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    }
+  ],
+  "user": "6539d8810185885eb2813655",
+  "createdAt": {
+    "$date": "2023-10-26T07:49:56.591Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:33:26.248Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6544840295"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653a1a3d44e0a345235beba1"
+  },
+  "name": "Team 9a - 789BET (8)",
+  "brand": [
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    }
+  ],
+  "user": "6539d8810185885eb2813655",
+  "createdAt": {
+    "$date": "2023-10-26T07:50:21.118Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:33:13.821Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6544840295"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653a1a5fa7f062a5118b793a"
+  },
+  "name": "Team 9b - NEW88 (cũ)",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    }
+  ],
+  "user": "6539d8810185885eb2813655",
+  "createdAt": {
+    "$date": "2023-10-26T07:50:55.758Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T09:23:51.449Z"
+  },
+  "__v": 0,
+  "disable": true,
+  "teleManager": []
+},
+{
+  "_id": {
+    "$oid": "653a1afd44e0a345235c0b95"
+  },
+  "name": "Team 9b - Hi88 (7)",
+  "brand": [
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    }
+  ],
+  "user": "6539d8810185885eb2813655",
+  "createdAt": {
+    "$date": "2023-10-26T07:53:33.495Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:34:13.544Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6443374856"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653a1b1480c28d2bbe78b5d0"
+  },
+  "name": "Team 9b - Jun88 (6)",
+  "brand": [
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    }
+  ],
+  "user": "6539d8810185885eb2813655",
+  "createdAt": {
+    "$date": "2023-10-26T07:53:56.308Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:34:31.649Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6443374856"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653a2d28a7f062a5118c0758"
+  },
+  "name": "Team 9b - 789BET (3)",
+  "brand": [
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    }
+  ],
+  "user": "6539d8810185885eb2813655",
+  "createdAt": {
+    "$date": "2023-10-26T09:11:04.481Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:34:44.924Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6443374856"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653a2d65a7f062a5118c075c"
+  },
+  "name": "Team 9c - NEW88 (5)",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    }
+  ],
+  "user": "6539d8810185885eb2813655",
+  "createdAt": {
+    "$date": "2023-10-26T09:12:05.920Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T08:53:26.422Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6360377071"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653a307b80c28d2bbe79b261"
+  },
+  "name": "Team 9c - Hi88 (6)",
+  "brand": [
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    }
+  ],
+  "user": "6539d8810185885eb2813655",
+  "createdAt": {
+    "$date": "2023-10-26T09:25:15.591Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T08:53:18.835Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6360377071"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653a308f83103cf1093ac1b7"
+  },
+  "name": "Team 9c - Jun88 (10)",
+  "brand": [
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    }
+  ],
+  "user": "6539d8810185885eb2813655",
+  "createdAt": {
+    "$date": "2023-10-26T09:25:35.195Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T08:53:11.210Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6360377071"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653a30a144e0a345235ce9bf"
+  },
+  "name": "Team 9c - 789BET (5)",
+  "brand": [
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    }
+  ],
+  "user": "6539d8810185885eb2813655",
+  "createdAt": {
+    "$date": "2023-10-26T09:25:53.394Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T08:53:05.189Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6360377071"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653a30bd83103cf1093ac1bf"
+  },
+  "name": "Team 9d - NEW88 (11)",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    }
+  ],
+  "user": "6539d8810185885eb2813655",
+  "createdAt": {
+    "$date": "2023-10-26T09:26:21.110Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:40:40.502Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6785359258"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653a30d1a7f062a5118c1241"
+  },
+  "name": "Team 9d - Hi88 (4)",
+  "brand": [
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    }
+  ],
+  "user": "6539d8810185885eb2813655",
+  "createdAt": {
+    "$date": "2023-10-26T09:26:41.537Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:40:23.821Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6785359258"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653a30e883103cf1093ac1c9"
+  },
+  "name": "Team 9d - Jun88 (11)",
+  "brand": [
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    }
+  ],
+  "user": "6539d8810185885eb2813655",
+  "createdAt": {
+    "$date": "2023-10-26T09:27:04.308Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:40:14.818Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6785359258"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653a30fda7f062a5118c1252"
+  },
+  "name": "Team 9d - 789BET (6)",
+  "brand": [
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    }
+  ],
+  "user": "6539d8810185885eb2813655",
+  "createdAt": {
+    "$date": "2023-10-26T09:27:25.411Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:40:01.477Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6785359258"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653a4fd983103cf1093ade15"
+  },
+  "name": "Digital (NEW88, Jun88, 789BET)",
+  "brand": [
+    {
+      "$oid": "653a4f2ff0d19c78795a01f4"
+    }
+  ],
+  "user": "6539d8810185885eb2813655",
+  "createdAt": {
+    "$date": "2023-10-26T11:39:05.448Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-01T06:20:23.354Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6544840295",
+    "6443374856",
+    "6360377071",
+    "6983033323",
+    "6785359258"
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b81c996397448a63bfa17"
+  },
+  "name": "Team 9b - NEW88 (1)",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    }
+  ],
+  "user": "6539d8810185885eb2813655",
+  "createdAt": {
+    "$date": "2023-11-08T12:40:41.503Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:34:57.195Z"
+  },
+  "__v": 0,
+  "teleManager": [
+    "6443374856"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fc562a11942765f6ce0292"
+  },
+  "name": "F8BET - Team 1",
+  "brand": [
+    {
+      "$oid": "6476ceb53b514f05366f7378"
+    }
+  ],
+  "teleManager": [],
+  "user": "650d5b7760190905bd248c9e",
+  "createdAt": {
+    "$date": "2024-03-21T15:45:46.796Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T08:15:59.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660a6d58552960cedc72ec1c"
+  },
+  "name": "F8BET - Team 3",
+  "brand": [
+    {
+      "$oid": "6476ceb53b514f05366f7378"
+    }
+  ],
+  "teleManager": [],
+  "user": "6539d8810185885eb2813655",
+  "createdAt": {
+    "$date": "2024-04-01T08:16:24.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T08:16:24.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660a6d60374779cee8962bb8"
+  },
+  "name": "F8BET - Team 4",
+  "brand": [
+    {
+      "$oid": "6476ceb53b514f05366f7378"
+    }
+  ],
+  "teleManager": [],
+  "user": "6539d8810185885eb2813655",
+  "createdAt": {
+    "$date": "2024-04-01T08:16:32.824Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T08:16:32.824Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6639df7978a3c95222fdf849"
+  },
+  "name": "HR",
+  "brand": [
+    {
+      "$oid": "6639dec7b4d22d8a9a646822"
+    }
+  ],
+  "teleManager": [
+    "6544840295",
+    "6443374856",
+    "6360377071",
+    "6983033323",
+    "6785359258"
+  ],
+  "user": "6539d8810185885eb2813655",
+  "createdAt": {
+    "$date": "2024-05-07T07:59:53.176Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-01T06:32:05.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c2cdaed8475493fabc240"
+  },
+  "name": "TEAM 12",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    },
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    },
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    },
+    {
+      "$oid": "64bce54b8e6ba16df052af18"
+    },
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    },
+    {
+      "$oid": "65a0b6ed71d21ce04e047332"
+    },
+    {
+      "$oid": "653cd0d5fb4b1ce1b0aa0613"
+    },
+    {
+      "$oid": "669d060ad8848f790d2e2a87"
+    }
+  ],
+  "teleManager": [
+    "6544840295",
+    "6443374856",
+    "6360377071",
+    "6983033323",
+    "6785359258"
+  ],
+  "user": "6539d8810185885eb2813655",
+  "createdAt": {
+    "$date": "2024-05-21T05:10:50.112Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-15T08:01:24.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681682a44662e1c1d01f375"
+  },
+  "name": "Team 9A - MB66 (4,7,8)",
+  "brand": [
+    {
+      "$oid": "66a28c4618dc0af8c6ea569f"
+    }
+  ],
+  "teleManager": [],
+  "user": "650d5b7760190905bd248c9e",
+  "createdAt": {
+    "$date": "2024-06-30T14:14:02.003Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T08:17:43.274Z"
+  },
+  "__v": 0,
+  "brandReferer": "mb66",
+  "disable": true
+},
+{
+  "_id": {
+    "$oid": "668168417be8cc402f68a9a4"
+  },
+  "name": "Team 9B - MB66 (10,11)",
+  "brand": [
+    {
+      "$oid": "66a28c4618dc0af8c6ea569f"
+    }
+  ],
+  "teleManager": [],
+  "user": "650d5b7760190905bd248c9e",
+  "createdAt": {
+    "$date": "2024-06-30T14:14:25.043Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T08:17:40.924Z"
+  },
+  "__v": 0,
+  "brandReferer": "mb66",
+  "disable": true
+},
+{
+  "_id": {
+    "$oid": "66816853b34d0095e656587b"
+  },
+  "name": "Team 9C - MB66 (1,2,3)",
+  "brand": [
+    {
+      "$oid": "66a28c4618dc0af8c6ea569f"
+    }
+  ],
+  "teleManager": [],
+  "user": "650d5b7760190905bd248c9e",
+  "createdAt": {
+    "$date": "2024-06-30T14:14:43.846Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T08:17:38.116Z"
+  },
+  "__v": 0,
+  "brandReferer": "mb66",
+  "disable": true
+},
+{
+  "_id": {
+    "$oid": "6681689444662e1c1d01f39c"
+  },
+  "name": "Team 9A - OK9 (4,7,8)",
+  "brand": [
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    }
+  ],
+  "teleManager": [
+    "6544840295"
+  ],
+  "user": "650d5b7760190905bd248c9e",
+  "createdAt": {
+    "$date": "2024-06-30T14:15:48.801Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:32:39.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668168ca44662e1c1d01f3b7"
+  },
+  "name": "Team 9B - OK9 (10,11)",
+  "brand": [
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    }
+  ],
+  "teleManager": [
+    "6443374856"
+  ],
+  "user": "650d5b7760190905bd248c9e",
+  "createdAt": {
+    "$date": "2024-06-30T14:16:42.756Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:35:17.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66816950bcbebecb27cf8361"
+  },
+  "name": "Team 9C - OK9 (1,2,3)",
+  "brand": [
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    }
+  ],
+  "teleManager": [
+    "6360377071"
+  ],
+  "user": "650d5b7760190905bd248c9e",
+  "createdAt": {
+    "$date": "2024-06-30T14:18:56.538Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:36:41.946Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668169637163e458ccd6072d"
+  },
+  "name": "Team 9D - OK9 (5.6)",
+  "brand": [
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    }
+  ],
+  "teleManager": [
+    "6785359258"
+  ],
+  "user": "650d5b7760190905bd248c9e",
+  "createdAt": {
+    "$date": "2024-06-30T14:19:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:39:19.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f7a5e4744efb43d96ae9c"
+  },
+  "name": "U888",
+  "brand": [
+    {
+      "$oid": "668f7a5291dc64ce585728ae"
+    }
+  ],
+  "teleManager": [],
+  "user": "650d5b7760190905bd248c9e",
+  "createdAt": {
+    "$date": "2024-07-11T06:23:26.363Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-11T06:23:26.363Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66926be8d5dbae7fed6fe35d"
+  },
+  "name": "TEAM 13",
+  "brand": [
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    }
+  ],
+  "teleManager": [
+    "7247012142"
+  ],
+  "user": "645e3a7880c9be0ba93a6e21",
+  "createdAt": {
+    "$date": "2024-07-13T11:58:32.937Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-16T05:38:53.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66926bf8fd4e57cd13aefc5d"
+  },
+  "name": "TEAM 14",
+  "brand": [
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    },
+    {
+      "$oid": "66926bae5918e324dd13d53b"
+    },
+    {
+      "$oid": "66961db6f35c3cf48a8045da"
+    }
+  ],
+  "teleManager": [
+    "6785359258"
+  ],
+  "user": "645e3a7880c9be0ba93a6e21",
+  "createdAt": {
+    "$date": "2024-07-13T11:58:48.718Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-08T09:06:51.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66961d5b878b7938355f051f"
+  },
+  "name": "SEOA2 (FC CASS)",
+  "brand": [
+    {
+      "$oid": "66961c45deaddc33d04a0df0"
+    }
+  ],
+  "teleManager": [],
+  "brandReferer": "f8",
+  "user": "66958636f3175ceee4199e10",
+  "createdAt": {
+    "$date": "2024-07-16T07:12:27.119Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T07:22:16.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66961f34a4b0b718123fcd05"
+  },
+  "name": "SEOA3 (FC JINX)",
+  "brand": [
+    {
+      "$oid": "66961c45deaddc33d04a0df0"
+    }
+  ],
+  "teleManager": [],
+  "brandReferer": "f8",
+  "user": "66958636f3175ceee4199e10",
+  "createdAt": {
+    "$date": "2024-07-16T07:20:20.291Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T07:20:20.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66961f4ca4b0b718123fcd0b"
+  },
+  "name": "SEOA4 (FD LINZY)",
+  "brand": [
+    {
+      "$oid": "66961c45deaddc33d04a0df0"
+    }
+  ],
+  "teleManager": [],
+  "brandReferer": "f8",
+  "user": "66958636f3175ceee4199e10",
+  "createdAt": {
+    "$date": "2024-07-16T07:20:44.089Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T07:20:44.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66961f5bf35c3cf48a804695"
+  },
+  "name": "SEOA6 (GTV)",
+  "brand": [
+    {
+      "$oid": "66961c45deaddc33d04a0df0"
+    }
+  ],
+  "teleManager": [],
+  "brandReferer": "f8",
+  "user": "66958636f3175ceee4199e10",
+  "createdAt": {
+    "$date": "2024-07-16T07:20:59.571Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T07:20:59.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669c9a4a000eef55105bde8d"
+  },
+  "name": "TEAM 16",
+  "brand": [
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    },
+    {
+      "$oid": "669d060ad8848f790d2e2a87"
+    }
+  ],
+  "teleManager": [
+    "6360377071"
+  ],
+  "brandReferer": "okvip",
+  "user": "650d5b7760190905bd248c9e",
+  "createdAt": {
+    "$date": "2024-07-21T05:19:06.739Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:19:27.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669df0a3956572ee10b8ae2a"
+  },
+  "name": "Team 9A - 78WIN (1,8)",
+  "brand": [
+    {
+      "$oid": "669d060ad8848f790d2e2a87"
+    }
+  ],
+  "teleManager": [
+    "6544840295"
+  ],
+  "brandReferer": "okvip",
+  "user": "650d5b7760190905bd248c9e",
+  "createdAt": {
+    "$date": "2024-07-22T05:39:47.553Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:32:25.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669df0c4a0a5212ce991a214"
+  },
+  "name": "Team 9B - 78WIN (2,5)",
+  "brand": [
+    {
+      "$oid": "669d060ad8848f790d2e2a87"
+    }
+  ],
+  "teleManager": [
+    "6443374856"
+  ],
+  "brandReferer": "okvip",
+  "user": "650d5b7760190905bd248c9e",
+  "createdAt": {
+    "$date": "2024-07-22T05:40:20.690Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:35:36.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669df0d2a0a5212ce991a218"
+  },
+  "name": "Team 9C - 78WIN (6,7)",
+  "brand": [
+    {
+      "$oid": "669d060ad8848f790d2e2a87"
+    }
+  ],
+  "teleManager": [
+    "6360377071"
+  ],
+  "brandReferer": "okvip",
+  "user": "650d5b7760190905bd248c9e",
+  "createdAt": {
+    "$date": "2024-07-22T05:40:34.271Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:36:16.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669df0e5c6ea789eb39356d5"
+  },
+  "name": "Team 9D - 78WIN (3,4,10)",
+  "brand": [
+    {
+      "$oid": "669d060ad8848f790d2e2a87"
+    }
+  ],
+  "teleManager": [
+    "6785359258"
+  ],
+  "brandReferer": "okvip",
+  "user": "650d5b7760190905bd248c9e",
+  "createdAt": {
+    "$date": "2024-07-22T05:40:53.183Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T05:39:08.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a28eda772b5f782e3bc76c"
+  },
+  "name": "MB66-Team1",
+  "brand": [
+    {
+      "$oid": "66a28c4618dc0af8c6ea569f"
+    }
+  ],
+  "teleManager": [],
+  "brandReferer": "mb66",
+  "user": "66a28bf5af9c49804ebbbc3a",
+  "createdAt": {
+    "$date": "2024-07-25T17:43:54.313Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T15:00:36.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a72c0d7633e9727a23e4a3"
+  },
+  "name": "Trợ Lý MB66",
+  "brand": [
+    {
+      "$oid": "66a28c4618dc0af8c6ea569f"
+    }
+  ],
+  "teleManager": [],
+  "brandReferer": "mb66",
+  "user": "66a28bf5af9c49804ebbbc3a",
+  "createdAt": {
+    "$date": "2024-07-29T05:43:41.398Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:43:41.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66aca0b86e4491bc9aab5427"
+  },
+  "name": "TRX",
+  "brand": [
+    {
+      "$oid": "66aca0ab30fdbe4b6c66f13a"
+    }
+  ],
+  "teleManager": [],
+  "brandReferer": "sh",
+  "user": "6695864d0f7cfad2fde5e473",
+  "createdAt": {
+    "$date": "2024-08-02T09:02:48.441Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T09:02:48.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b0f1a50b129324017d7b79"
+  },
+  "name": "TEAM IT DEV",
+  "brand": [
+    {
+      "$oid": "66a28c4618dc0af8c6ea569f"
+    }
+  ],
+  "teleManager": [],
+  "brandReferer": "mb66",
+  "user": "66a28bf5af9c49804ebbbc3a",
+  "createdAt": {
+    "$date": "2024-08-05T15:37:09.129Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-05T15:37:09.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b4acdff5c9ff15a2ea6e15"
+  },
+  "name": "TEAM 9",
+  "brand": [
+    {
+      "$oid": "63e8642d314e1faeb0466074"
+    },
+    {
+      "$oid": "63e8643c314e1faeb0466079"
+    },
+    {
+      "$oid": "63e86445314e1faeb046607e"
+    },
+    {
+      "$oid": "641fccfa163aaafc4d272d2f"
+    },
+    {
+      "$oid": "64c8b8e2528d36552a03d36e"
+    },
+    {
+      "$oid": "669d060ad8848f790d2e2a87"
+    },
+    {
+      "$oid": "65a0b6ed71d21ce04e047332"
+    }
+  ],
+  "teleManager": [],
+  "brandReferer": "okvip",
+  "user": "650d5b7760190905bd248c9e",
+  "createdAt": {
+    "$date": "2024-08-08T11:32:47.511Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-08T11:32:47.511Z"
+  },
+  "__v": 0
+}]
