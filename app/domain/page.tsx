@@ -40,6 +40,7 @@ export default function PricingPage() {
 				userSupport,
 				expiresDate,
 				note,
+				disableKPI,
 				kpi,
 				...rest
 			} = domain;
@@ -87,13 +88,13 @@ export default function PricingPage() {
 							volume: item?.details[0]?.volumn,
 							top: item?.details[0]?.result,
 							customer: 0,
-							// result: Number(item?.details[0]?.result) || 0,
 						},
+						
 						kpiReview:
 							item?.details[0]?.kpi ||
 							// item?.details[0]?.review ||
 							null,
-						// dateReceive: item?.receiveDate,
+						dateReceive: item?.receiveDate,
 						user: item?.user,
 						month: item?.startDate,
 						review: {
@@ -111,6 +112,7 @@ export default function PricingPage() {
 			return {
 				...rest,
 				...field,
+				isCalculateKpi: disableKPI === true ? true : false,
 				keywords: [...keywords],
 				domainName: name,
 				statusDomain: field?.statusDomain?.value || "",
